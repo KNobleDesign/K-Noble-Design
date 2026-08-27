@@ -1,0 +1,6 @@
+{
+  "name": "BuildTrack",
+  "description": "Construction and interior design project management system with role-based access control, interactive Gantt timelines, cash flow analysis, installment validation, document and blueprint repository, and QC action items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
